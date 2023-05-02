@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 - 🔭 I’m interested in AI development tools towards decentralized systems
 - 🌱 I’m currently working on AI tools with services/app integration
 - 👯 I’m looking to collaborate on decentralized systems towards the future
