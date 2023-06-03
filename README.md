@@ -2,7 +2,7 @@
 - 🔭 I’m interested in AI development tools towards decentralized systems
 - 🌱 I’m currently working on AI tools with services/app integration
 - 👯 I’m looking to collaborate on decentralized systems towards the future
-- 💬 Ask me about geosicences: geophysics,sesimics,magnetometry, remote sensing
+- 💬 Ask me about geosicences: geophysics,sesimics,magnetometry, remote sensing...state-of-the-art of Deep Learning on geoscience 
 - 📫 How to reach me: jfelipe.barradas@gmail.com
 
 <!--
