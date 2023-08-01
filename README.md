@@ -1,9 +1,9 @@
 ### Hola 👋
-- 🔭 I’m interested in AI development tools towards decentralized systems
-- 🌱 I’m currently working on AI tools with services/app integration
-- 👯 I’m looking to collaborate on decentralized systems towards the future
-- 💬 Ask me about geosicences: geophysics,sesimics,magnetometry, remote sensing...state-of-the-art of Deep Learning on geoscience 
-- 📫 How to reach me: jfelipe.barradas@gmail.com
+- 🔭 I’m interested in AI development tools for DeSci/DeFi
+- 🌱 I’m currently working on AI tools with services/app integration for geoscience
+- 👯 I’m looking to collaborate on DeSci. 
+- 💬 Ask me about geosciences: geophysics,seismic, magnetometry, remote sensing...state-of-the-art of "geoscience language models"
+- 📫 How to reach me: tuqueque.de.casa@gmail.com
 
 <!--
 **JFelipe-bit/JFelipe-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
